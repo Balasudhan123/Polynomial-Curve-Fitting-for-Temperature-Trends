@@ -4,6 +4,8 @@ This project analyzes temperature trends in India from 2015 to 2019 and makes pr
 
 ## Installation
 
+Extract "city_temperature.7z" to get "city_temperature.csv"
+
 Make sure you have the necessary Python libraries installed:
 
 ```bash
